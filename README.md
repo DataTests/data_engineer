@@ -12,7 +12,7 @@ Data Engineer Test
 file. Use the tools available in the Vagrant environment. If you want to use
 something else, then update this document to include the installation steps.
 
-4. Push your code back to your fokr at GitHub and submit a Pull Request to the
+4. Push your code back to your fork at GitHub and submit a Pull Request to the
 original repo.
 
 
